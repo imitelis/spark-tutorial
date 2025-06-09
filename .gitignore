@@ -1,0 +1,15 @@
+# ide
+.vscode/
+
+# deps
+.metals/
+
+# build
+target/
+
+# project
+project/project/
+project/target/
+
+# dataset
+*.csv
